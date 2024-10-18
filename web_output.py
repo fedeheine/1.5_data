@@ -21,7 +21,7 @@ if version==1:
     st.image("robot.JPG")
 
 elif version==2:
-    st.image("2.0.JPG")
+    st.image("robot_new.JPG")
 
 else:
     pass
